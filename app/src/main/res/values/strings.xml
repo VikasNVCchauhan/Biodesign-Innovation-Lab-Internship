@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Biodesign Innovation Labs Private Limited Color RGB APP</string>
+    <string name="alert_dialog_heading">DEFINED RANGE EXCEEDED</string>
+    <string name="alert_dialog_message" tools:ignore="StringEscaping">There is predefined range for selecting color count from <b>0 - 250 </b>so you can not select value out of this range</string>
+
+</resources>
